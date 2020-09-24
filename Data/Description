@@ -1,0 +1,22 @@
+The data accompanying the paper:
+"Positive interactions within and between populations decrease the likelihood of evolutionary rescue".
+Yaron Goldberg and Jonathan Friedman, Department of Plant Pathology and Microbiology, The Hebrew University of Jerusalem, Rehovot, Israel.
+
+Data formats:
+- Raw data is in the form of binary sequence where 0 is extinction and 1 is rescue. 
+  Data stemmed for multiple parameter simulations (run with nested loops) is in the form of 1d sequence with linear indexing (param1,param2,rounds).
+- Parsed data is in the form of a table with the parameters and the corresponding evolutionary rescue probability 
+
+Data files - figure correspondance:
+
+      Copperation_main: Figs 2A, 2D, 3A, 4A, 5A, 6A, S3A, S3C, S4A, S5A, S8B
+      Cooperation_nc: Fig 2E
+      Cooperation_d_mu: Fig 2F
+      Mutualsim_main: Figs 3A-C, 4A, 5A, 6A, S4A, S4B, S7
+      Mutualsim_independent_main: Figs 4A, 6A (w/o competition)
+      Cheaters_main: Figs 5A, 6A
+
+
+
+
+
