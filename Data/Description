@@ -9,7 +9,6 @@ Data formats:
   
 - Parsed data is in the form of a table with the parameters and the corresponding evolutionary rescue probability 
 
-
 Data files - figure correspondance:
 
   Main text:
@@ -26,5 +25,6 @@ Data files - figure correspondance:
         Chaeters_continuous: Fig S5A
         Cooperation_cost: Figs S6, S7
 
+Parameters table can be found in table S1 in the supplementary information
 
 
